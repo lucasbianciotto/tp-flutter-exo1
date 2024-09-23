@@ -1,3 +1,5 @@
+import 'package:flutter/cupertino.dart';
+
 const appTitle = "Mon APP";
-const defaultPadding = null;
-const defaultTextStyle = null;
+const defaultPadding = EdgeInsets.all(15);
+const defaultTextStyle = TextStyle(fontSize: 20);
